@@ -213,7 +213,6 @@ The currently available five-seed summary reports the following mean test accura
 - Logistic Regression performs better on Iris and slightly better on Breast Cancer in this summary.
 - ANGLE and ZZ exceed the Logistic Regression mean on Wine in this experiment. However, the Wine test set contains only 26 samples per split.
 - Five seeds provide an initial stability check but do not establish statistical significance.
-- These results do not demonstrate quantum advantage.
 
 ### Output Files
 
