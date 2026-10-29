@@ -1,0 +1,2 @@
+dataset,model,samples,train_samples,test_samples,random_state,max_iter,training_accuracy,test_accuracy,precision_class_1,recall_class_1,f1_class_1,training_time_seconds,true_negative,false_positive,false_negative,true_positive,features,class_names
+iris,Logistic Regression,100,80,20,42,2000,1.0,1.0,1.0,1.0,1.0,0.009488800000326592,10,0,0,10,"petal_length, petal_width",0 vs 1

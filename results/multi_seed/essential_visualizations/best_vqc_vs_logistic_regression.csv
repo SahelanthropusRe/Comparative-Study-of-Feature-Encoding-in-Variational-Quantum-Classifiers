@@ -1,0 +1,4 @@
+dataset,best_vqc_encoding,best_vqc_mean_accuracy_pct,best_vqc_std_percentage_points,logistic_regression_mean_accuracy_pct,logistic_regression_std_percentage_points,difference_percentage_points
+Iris: Setosa vs Versicolor,E2,98,2.738612788,100,0,-2
+Breast Cancer Wisconsin,ANGLE,89.8245614,2.28743944,90.35087719,2.631578947,-0.526315789
+Wine: Class 0 vs Class 1,ANGLE,89.23076923,4.213250442,84.61538462,3.846153846,4.615384615

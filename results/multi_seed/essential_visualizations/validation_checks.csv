@@ -1,0 +1,11 @@
+check,passed
+Expected 90 rows,True
+All three datasets present,True
+Expected five seeds present,True
+No duplicate experiment rows,True
+iris: all five VQC encodings have five runs,True
+iris: five Logistic Regression runs,True
+breast_cancer: all five VQC encodings have five runs,True
+breast_cancer: five Logistic Regression runs,True
+wine: all five VQC encodings have five runs,True
+wine: five Logistic Regression runs,True

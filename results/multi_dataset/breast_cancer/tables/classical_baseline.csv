@@ -1,0 +1,2 @@
+dataset,model,samples,train_samples,test_samples,random_state,max_iter,training_accuracy,test_accuracy,precision_class_1,recall_class_1,f1_class_1,training_time_seconds,true_negative,false_positive,false_negative,true_positive,features,class_names
+breast_cancer,Logistic Regression,569,455,114,42,2000,0.9054945054945055,0.9122807017543859,0.9078947368421053,0.9583333333333334,0.9324324324324325,0.00399219999962952,35,7,3,69,"mean_radius, mean_concave_points",0 vs 1

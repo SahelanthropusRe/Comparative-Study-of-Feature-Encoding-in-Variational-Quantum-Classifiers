@@ -1,0 +1,12 @@
+
+# Core numerical and data processing
+numpy
+pandas
+scikit-learn
+
+# Quantum machine learning
+pennylane
+
+# Visualization
+matplotlib
+pillow
